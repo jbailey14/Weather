@@ -505,4 +505,4 @@ $('#sidr-show-hide').sidr();
 // Close from inside
 $('#close').sidr({
   method: 'close'
-})
+});
